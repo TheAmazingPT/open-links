@@ -1,15 +1,23 @@
 {
   "name": "open-links",
-  "version": "1.0.0",
+  "license": "MIT",
+  "version": "1.0.1",
+  "repository": "TheAmazingPT/open-links",
   "description": "Open links in new tabs or windows simultaneously",
   "main": "index.js",
+  "maintainers": {
+    "name": "TheAmazingPT",
+    "email": "theamazingpt@protonmail.com",
+    "url": "github.com/TheAmazingPT"
+  },
+  "engines": {
+    "node": ">=8"
+  },
   "keywords": [
     "open",
     "links",
     "tabs",
     "windows",
     "blank"
-  ],
-  "author": "Philipp Trunczik",
-  "license": "MIT"
+  ]
 }
