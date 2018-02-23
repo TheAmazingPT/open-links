@@ -1,0 +1,15 @@
+{
+  "name": "open-links",
+  "version": "1.0.0",
+  "description": "Open links in new tabs or windows simultaneously",
+  "main": "index.js",
+  "keywords": [
+    "open",
+    "links",
+    "tabs",
+    "windows",
+    "blank"
+  ],
+  "author": "Philipp Trunczik",
+  "license": "MIT"
+}
